@@ -1,5 +1,5 @@
 # Books-App-UI
-Prototype of a books app that allows users to easily buy and sell used books.
+
 Design a mobile app that allows users to easily buy and sell used books.
 
  
